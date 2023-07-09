@@ -1,0 +1,26 @@
+[16-Oct-2022 19:37:23 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/royadlnt/public_html/phpdemo/payment_request.php on line 16
+[16-Oct-2022 19:37:31 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/royadlnt/public_html/phpdemo/payment_request.php on line 16
+[16-Oct-2022 19:40:57 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/royadlnt/public_html/phpdemo/payment_request.php on line 16
+[16-Oct-2022 19:41:22 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/royadlnt/public_html/phpdemo/payment_request.php on line 16
+[16-Oct-2022 19:41:59 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/royadlnt/public_html/phpdemo/payment_request.php on line 16
+[16-Oct-2022 19:42:26 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.3.33. in /home/royadlnt/public_html/phpdemo/vendor/composer/platform_check.php on line 24
+[16-Oct-2022 19:44:16 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/royadlnt/public_html/phpdemo/vendor/composer/platform_check.php on line 24
+[16-Oct-2022 19:46:22 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/royadlnt/public_html/phpdemo/vendor/composer/platform_check.php on line 24
+[16-Oct-2022 19:46:51 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/royadlnt/public_html/phpdemo/vendor/composer/platform_check.php on line 24
+[16-Oct-2022 19:49:16 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/royadlnt/public_html/phpdemo/vendor/composer/platform_check.php on line 24
+[16-Oct-2022 19:53:33 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/royadlnt/public_html/phpdemo/vendor/composer/platform_check.php on line 24
+[16-Oct-2022 20:00:52 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/royadlnt/public_html/phpdemo/vendor/composer/platform_check.php on line 24
+[16-Oct-2022 20:03:09 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 20:04:37 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 20:06:53 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 20:08:28 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 20:08:41 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/royadlnt/public_html/phpdemo/vendor/composer/platform_check.php on line 24
+[16-Oct-2022 20:09:04 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 20:09:36 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/royadlnt/public_html/phpdemo/payment_request.php on line 16
+[16-Oct-2022 20:10:12 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 20:16:01 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 20:17:02 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 20:23:35 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 21:02:29 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[16-Oct-2022 22:08:57 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70
+[23-Oct-2022 05:21:09 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/royadlnt/public_html/phpdemo/src/ActionRequest.php on line 70

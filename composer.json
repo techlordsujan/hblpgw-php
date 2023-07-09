@@ -1,0 +1,25 @@
+{
+    "name": "paco/phpdemo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Paco\\PhpDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Babulal Choudhary",
+            "email": "babulal.cho@2c2pexternal.com"
+        }
+    ],
+    "require": {
+        "web-token/jwt-framework": "^2.2",
+        "guzzlehttp/guzzle": "^7.0",
+        "nesbot/carbon": "^2.56",
+        "ext-openssl": "*"
+    },
+    "config": {
+
+        "platform-check": false
+    }
+}
