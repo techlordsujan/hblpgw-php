@@ -87,7 +87,7 @@
 @import "https://fonts.googleapis.com/css?family=PT Sans Narrow:light,lightitalic,normal,italic,bold,bolditalic";
 </style>
 
-<link type="text/css" rel="stylesheet" href="./HBL Career_files/hbl(1).css">
+<link type="text/css" rel="stylesheet" href="./HBL Career_files/hbl.css">
 </head>
 <body>
 <form class="jotform-form" action="payment_request.php" method="post" enctype="multipart/form-data" name="form_payment" id="" accept-charset="utf-8">
